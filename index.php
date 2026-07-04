@@ -8,7 +8,7 @@
 // ============================================================
 
 $homedir = dirname(dirname(__DIR__));
-$keydir = $homedir . '/private/';
+$keydir = $homedir . '/home/';
 $orskeyfile = $keydir . 'ors_key.txt';
 $geminikeyfile = $keydir . 'gemini_key.txt';
 
